@@ -1,0 +1,20 @@
+# Ignore build output directories
+[Bb]in/
+[Oo]bj/
+
+# Ignore the packages directory
+packages/
+
+# Ignore Visual Studio-specific files and directories
+.vs/
+*.suo
+*.user
+*.log
+
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
+
+# Ignore temporary files
+~* 
