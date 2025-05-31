@@ -1,6 +1,8 @@
 # Ignore build output directories
 [Bb]in/
 [Oo]bj/
+x64/Debug/
+x64/Release/
 
 # Ignore the packages directory
 packages/
