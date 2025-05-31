@@ -2,6 +2,8 @@
 
 A simple C++ application that displays animated shapes bouncing around a window. Shapes are loaded from a configuration file and bounce off window boundaries.
 
+**Note**: This project was created as an assignment for the COMP4300 course by Dave Churchill: https://www.youtube.com/@DaveChurchill
+
 ## Features
 
 - Configurable window size and shapes via text file
